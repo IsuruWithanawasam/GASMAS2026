@@ -2,7 +2,7 @@
 
 **Development and Evaluation of Advanced Large-Geometry Phantoms**
 
-Master's Thesis — Isuru Chanilka Mawella Withanawasam  
+Master's Thesis by Isuru Chanilka Mawella Withanawasam  
 Division of Combustion Physics, Department of Physics, Lund University  
 Erasmus Mundus Joint Master Programme in Large Scale Accelerators and Lasers (LASCALA), 2026  
 
