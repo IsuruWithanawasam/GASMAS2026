@@ -55,9 +55,3 @@ pandas
 ```
 
 ---
-
-## Citation
-
-If you use this code, please cite the thesis:
-
-> Isuru Chanilka Mawella Withanawasam, *Feasibility of Adult Lung Monitoring using GASMAS: Development and Evaluation of Advanced Large-Geometry Phantoms*, Master's Thesis, Lund University, 2026.
