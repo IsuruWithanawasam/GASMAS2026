@@ -84,8 +84,8 @@ The simulated geometry is a layered slab representing the adult thorax in intern
 
 | Layer | Tissue |
 |---|---|
-| 1 | Skin |
-| 2 | Chest wall (swept) |
+| 1 | Thorax |
+| 2 | Esophagus |
 | 3 | Lung (air-filled scattering medium) |
 
 Optical properties are set at 763 nm following Jacques (2013) empirical scaling. The isotropic source is placed inside the lung layer to mimic a diffusing probe.
