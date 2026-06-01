@@ -41,7 +41,7 @@ Monte Carlo simulations in internal illumination mode — isotropic source place
 
 ## Requirements
 
-All notebooks are written for Google Colab (T4 GPU) but can be run locally with minor path adjustments. Core dependencies:
+All notebooks are written for Google Colab (T4 GPU). Notebooks using pmcx require GPU acceleration. Others can be run locally with minor path adjustments. Core dependencies:
 
 ```
 pmcx
