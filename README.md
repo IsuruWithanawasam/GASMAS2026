@@ -35,7 +35,7 @@ Monte Carlo photon transport simulations (pmcx/MCX) in external illumination mod
 Pathlength distribution analysis comparing the 763 nm (O₂) and 935 nm (H₂O) channels across all source–detector separations. Assesses whether the two wavelengths probe the same lung volume, which is a prerequisite for using 935 nm as a pathlength calibration reference. See the folder README for details.
 
 ### `Simulations-Internal_illumination`
-Monte Carlo simulations in internal illumination mode — isotropic source placed inside the lung layer to mimic a diffusing probe. Same thickness/SDS sweep as the external case. See the folder README for details.
+Monte Carlo simulations in internal illumination mode - isotropic source placed inside the lung layer to mimic a diffusing probe. Same thickness/SDS sweep as the external case. See the folder README for details.
 
 ---
 
